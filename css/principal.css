@@ -163,3 +163,10 @@ img.linha {
 	text-align:center;
 	color:#FFF;	
 }
+
+ol li{
+	/*list-style: url('/img/seta.png');*/
+	list-style-image: url(../img/seta.png);
+	margin-left: 40px;
+	margin-bottom: 10px;
+}
